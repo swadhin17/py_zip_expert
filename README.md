@@ -49,4 +49,38 @@ ACHIEVEMENTS:-
 During testing of the code, my team found that our software could compress pdf files 
 better than that of winrar or any other online zipper like www.ezyzip.com .
 
+CONTRIBUTORS:-
+  SWADHINKUMAR PATI
+  ADITYA KUMAR
+  SAVAN JASANI
 
+SOME SCREENSHOTS:-
+
+FOR ZIPPING:-
+The software after it runs is shown below
+<image src="screenshots/img1.png">
+ <br><\br>
+After adding zip file name
+<image src="screenshots/img2.png">
+  <br><\br>
+After clicking save to desktop button
+<image src="screenshots/img3.png"> 
+ <br><\br>
+after clicking zip button
+ <image src="screenshots/img4.png">
+ <br><\br> 
+ You will find your zip file in desktop
+
+FOR UNZIPPING:-  
+after adding unzip file name
+<image src="screenshots/img5.png">
+ <br><\br>
+after clicking save to desktop button
+<image src="screenshots/img6.png">
+ <br><\br>
+after clicking unzip button
+<image src="screenshots/img8.png">
+ <br><\br>
+ You will find your unzipped file in desktop
+ 
+ 
