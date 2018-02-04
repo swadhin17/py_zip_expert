@@ -60,14 +60,17 @@ FOR ZIPPING:-
 <br>
 The software after it runs is shown below
 <image src="screenshots/img1.png">
- <br>
+<br>
 After adding zip file name
+<br> 
 <image src="screenshots/img2.png">
 <br>
 After clicking save to desktop button
+<br> 
 <image src="screenshots/img3.png"> 
- <br>
+<br>
 after clicking zip button you can choose multiple files
+<br>
 <image src="screenshots/img4.png">
 <br> 
 You will find your zip file in desktop
@@ -75,14 +78,17 @@ You will find your zip file in desktop
 FOR UNZIPPING:- 
 <br>
 after adding unzip file name
+<br>
 <image src="screenshots/img5.png">
- <br>
+<br>
 after clicking save to desktop button
+<br>
 <image src="screenshots/img6.png">
- <br>
+<br>
 after clicking unzip button
+<br> 
 <image src="screenshots/img8.png">
- <br>
- You will find your unzipped file in desktop
+<br>
+You will find your unzipped file in desktop
  
  
