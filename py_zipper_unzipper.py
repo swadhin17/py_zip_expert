@@ -6,7 +6,7 @@ from pathlib import Path
 root = Tk()
 root.title('py_zipper_unzipper')
 
-label1=Label(root,text='zipfile name').grid(row = 0,column = 0)
+label1=Label(root,text='unzip/zipfile name').grid(row = 0,column = 0)
 text1= Entry(root,width=40)
 text1.grid(row = 0,column = 1,pady=10)
 
