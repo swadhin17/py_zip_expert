@@ -51,9 +51,11 @@ better than that of winrar or any other online zipper like www.ezyzip.com .
 
 CONTRIBUTORS:-
 
-SWADHIN KUMAR PATI.
-ADITYA KUMAR.
-SAVAN JASANI.
+SWADHIN KUMAR PATI
+<br>
+ADITYA KUMAR
+<br>
+SAVAN JASANI
 
 SOME SCREENSHOTS:-
 
@@ -75,6 +77,10 @@ after clicking zip button you can choose multiple files
 <image src="screenshots/img4.png">
 <br> 
 You will find your zip file in desktop
+<br>
+Also you can save your zipped file in desired location by 
+writing your absolute address manually and save the adress
+for future use by clicking add new address button .
 
 FOR UNZIPPING:- 
 <br>
@@ -91,5 +97,9 @@ after clicking unzip button
 <image src="screenshots/img8.png">
 <br>
 You will find your unzipped file in desktop
+<br>
+Also you can save your unzipped file in desired location by 
+writing your absolute address manually and save the adress
+for future use by clicking add new address button .
  
  
