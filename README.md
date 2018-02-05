@@ -12,9 +12,13 @@ It zip or unzip as per users' choice and and can save the file to the desired lo
 USER GUIDELINES:-
 
 To use this sotware , simply download the py_zipper_unzipper.exe file and run it.
+<br>
 OR
+<br>
 To use this software either run this py_zipper_unzipper.py in a machine which have python 3 installed in it.
+<br>
 OR
+<br>
 create a executable file for windows machine by using [pyinstaller] library.
 for this run the following command on your command prompt in the (script) location of python in your pc
 (by pressing shift+right click) and choosing (run command window here).
