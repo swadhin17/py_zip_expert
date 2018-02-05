@@ -11,6 +11,8 @@ It zip or unzip as per users' choice and and can save the file to the desired lo
 
 USER GUIDELINES:-
 
+To use this sotware , simply download the py_zipper_unzipper.exe file and run it.
+OR
 To use this software either run this py_zipper_unzipper.py in a machine which have python 3 installed in it.
 OR
 create a executable file for windows machine by using [pyinstaller] library.
