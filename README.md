@@ -50,9 +50,10 @@ During testing of the code, my team found that our software could compress pdf f
 better than that of winrar or any other online zipper like www.ezyzip.com .
 
 CONTRIBUTORS:-
-  SWADHINKUMAR PATI
-  ADITYA KUMAR
-  SAVAN JASANI
+
+SWADHIN KUMAR PATI.
+ADITYA KUMAR.
+SAVAN JASANI.
 
 SOME SCREENSHOTS:-
 
