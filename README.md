@@ -5,7 +5,7 @@ DESCRIPTION:-
 
 The code is use for zipping and unzipping any file using python.
 The code is accompanied with a user-friendly graphic user interface.
-It zip or unzip as per users' choice and and can save the file to the desired location.
+It zip or unzip as per users' choice and can save the file to the desired location.
 
 
 
