@@ -26,9 +26,10 @@ for this run the following command on your command prompt in the (script) locati
 There type : pyinstaller -F absolute address of py_zipper_unzipper_*.py in your pc
 and an .exe file will be created in dist folder of script folder of python in your pc.
 
-Now you can run the exe file.
+Now you can run the exe file.<br>
 \* means small for .c , .html or any other small size files.
-\* mens large for pdf or any such larger files.
+<br>
+\* means large for pdf or any such larger files.
 
 
 INSTRUCTIONS FOR ZIPPING:-
