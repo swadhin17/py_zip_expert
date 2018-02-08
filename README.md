@@ -11,11 +11,11 @@ It zip or unzip as per users' choice and and can save the file to the desired lo
 
 USER GUIDELINES:-
 
-To use this sotware , simply download the py_zipper_unzipper_*.exe file and run it.
+To use this sotware , simply download the py_zipper_unzipper_\*.exe file and run it.
 <br>
 OR
 <br>
-To use this software either run this py_zipper_unzipper_*.py in a machine which have python 3 installed in it.
+To use this software either run this py_zipper_unzipper_\*.py in a machine which have python 3 installed in it.
 <br>
 OR
 <br>
@@ -27,8 +27,8 @@ There type : pyinstaller -F absolute address of py_zipper_unzipper_*.py in your 
 and an .exe file will be created in dist folder of script folder of python in your pc.
 
 Now you can run the exe file.
-* means small for .c , .html or any other small size files.
-* mens large for pdf or any such larger files.
+\* means small for .c , .html or any other small size files.
+\* mens large for pdf or any such larger files.
 
 
 INSTRUCTIONS FOR ZIPPING:-
